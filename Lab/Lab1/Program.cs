@@ -84,7 +84,7 @@ namespace Lab1
             while (shoot != number);
 
             Console.WriteLine("Zgadłeś!");
-            Console.WriteLine("Liczba prób: ", shoot);
+            Console.WriteLine("Liczba prób: ", count);
         }
 
 
